@@ -22,6 +22,7 @@ namespace SmartHomeController
         }
 
 
+
         public string DeviceName
         {
             get { return deviceName; }
