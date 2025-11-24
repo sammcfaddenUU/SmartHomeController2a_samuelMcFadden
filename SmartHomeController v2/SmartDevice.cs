@@ -21,6 +21,7 @@ namespace SmartHomeController
             set { deviceId = value; }
         }
 
+
         public string DeviceName
         {
             get { return deviceName; }
